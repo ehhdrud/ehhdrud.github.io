@@ -1,14 +1,14 @@
 {
   "name": "gatsby-starter-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Front-End Developer",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Seo Dong Kyeong <ehhdrud@ehhdrud.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "gatsby": "^4.17.1",
+    "gatsby": "^4.17.0",
     "gatsby-plugin-feed": "^4.17.0",
     "gatsby-plugin-gatsby-cloud": "^4.17.0",
     "gatsby-plugin-google-analytics": "^4.17.0",
@@ -33,7 +33,8 @@
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "gh-pages": "^4.0.0",
+    "prettier": "^2.6.2"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
@@ -51,6 +52,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
   }
 }
