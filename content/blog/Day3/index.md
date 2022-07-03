@@ -13,10 +13,10 @@ description: Leg2
 |:-|:-:|:-:|:-:|
 ||20reps * 10reps|20kg * 10reps|20kg * 10reps|
 
-##### 🏋️‍♀️One Leg Extension
-|**OLE**|**1set**|**2set**|**3set**|**4set**|
+##### 🏋️‍♀️Leg Extension
+|**LE**|**1set**|**2set**|**3set**|**4set**|
 |:-|:-:|:-:|:-:|:-:|
-||26kg * 12reps|26kg * 12reps|26kg * 12reps|26kg * 12reps|
+||47kg * 10reps|47kg * 10reps|47kg * 10reps|47kg * 10reps|
 
 ##### 🏋️‍♀️Leg Curl
 |**LC**|**1set**|**2set**|**3set**|

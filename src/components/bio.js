@@ -35,7 +35,7 @@
          className="bio-avatar"
          layout="fixed"
          formats={["auto", "webp", "avif"]}
-         src="../images/my-body.png"
+         src="../images/my-childhood.png"
          width={150}
          height={150}
          quality={95}

@@ -5,7 +5,7 @@ module.exports = {
       name: `Seo Dong Kyeong`,
       summary: `(Front-End Developer)`
     },
-    description: `Enjoy Coding😊`,
+    description: `SDK's Blog`,
     social: {
     },
   },
