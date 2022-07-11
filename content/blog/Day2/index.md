@@ -7,30 +7,30 @@ description: Chest * Shoulder1
 |**BP**|**1set**|**2set**|
 |:-|:-:|:-:|
 |100kg(5RM)|5reps|4reps|
-|90kg(8RM)|8reps|6reps|
-|80kg(12RM)|13reps|8reps|
+|85kg(10RM)|10reps|10reps|
 
 ##### 🏋️‍♀️Incline Bench Press
 |**IBP**|**1set**|**2set**|
 |:-|:-:|:-:|
 |80kg(5RM)|5reps|5reps|
-|75kg(8RM)|8reps|8reps|
-|70kg(12RM)|12reps|12reps|
+|75kg(10RM)|10reps|10reps|
 
 ##### 🏋️‍♀️Dip
 |**Dip**|**1set**|**2set**|
 |:-|:-:|:-:|
-||+30kg * 7reps|+20kg * 10reps|
+|(5RM Day)|+30kg * 7reps|+25kg * 7reps|
+|(10RM Day)|+20kg * 12reps|+15kg * 12reps|
 
 ##### 🏋️‍♀️Chest Fly
 |**CF**|**1set**|**2set**|
 |:-|:-:|:-:|
-||60kg * 12reps|60kg * 12reps|
+|(5RM Day)|70kg * 10reps|70kg * 8reps|
+|(10RM Day)|60kg * 15reps|60kg * 12reps|
 
 ##### 🏋️‍♀️Behind Neck Shoulder Press
 |**BNSP**|**1set**|**2set**|**3set**|**4set**|
 |:-|:-:|:-:|:-:|:-:|
-||40kg * 12reps|40kg * 10reps|40kg * 9reps|40kg * 7reps|   
+||40kg * 15reps|40kg * 11reps|40kg * 9reps|40kg * 7reps|   
 
 ##### 🏋️‍♀️Side Lateral Raise(Dumbbell)
 |**SLR(D)**|**1set**|**2set**|
@@ -45,4 +45,4 @@ description: Chest * Shoulder1
 ##### 🏋️‍♀️Rear Delt Fly(Machine)
 |**RDF(M)**|**1set**|**2set**|**3set**|**4set**|
 |:-|:-:|:-:|:-:|:-:|
-||54kg * 15reps|54kg * 15reps|54kg * 12reps|54kg * 12reps|
+||54kg * 15reps|54kg * 12reps|54kg * 10reps|54kg * 8reps|

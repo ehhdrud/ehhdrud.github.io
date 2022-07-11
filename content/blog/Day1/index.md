@@ -13,8 +13,8 @@ description: Leg1
 |:-|:-:|:-:|:-:|:-:|
 ||400kg * 7reps|400kg * 5reps|160kg * 12reps|160kg * 12reps|
 
-##### 🏋️‍♀️One Leg Extension
-|**OLE**|**1set**|**2set**|**3set**|**4set**|
+##### 🏋️‍♀️Single Leg Extension
+|**SLE**|**1set**|**2set**|**3set**|**4set**|
 |:-|:-:|:-:|:-:|:-:|
 ||26kg * 12reps|26kg * 12reps|26kg * 10reps|26kg * 10reps|
 
