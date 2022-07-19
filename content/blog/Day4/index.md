@@ -1,56 +1,49 @@
 ---
-title: Day4
-description: Shoulder2 * Back
+title: Shoulder * Back
+description: 어깨(후면삼각근 메인), 등
 ---
-### 🔥Shoulder2 * Back🔥
-##### 🏋️‍♀️Face Pull
+##### 🔥Face Pull🔥
 |**FP**|**1set**|**2set**|
 |:-|:-:|:-:|
-||20kg * 15reps|20kg * 15reps|
+||25kg * 15reps|25kg * 15reps|
 
-##### 🏋️‍♀️Rear Delt Fly(Cable)
-|**RDF(C)**|**1set**|**2set**|
+##### 🔥Single Rear Delt Fly🔥
+|**SRDF**|**1set**|**2set**|
 |:-|:-:|:-:|
 ||15kg * 12reps|15kg * 12reps|
 
-##### 🏋️‍♀️Seated Row(R)
+##### 🔥Seated Row(R)🔥
 |**SR(R)**|**1set**|**2set**|**3set**|**4set**|
 |:-|:-:|:-:|:-:|:-:|
-||40kg * 15reps|40kg * 15reps|40kg * 12reps|40kg * 12reps|
+||45kg * 12reps|45kg * 12reps|40kg * 15reps|40kg * 15reps|
 
-##### 🏋️‍♀️Rear Delt Fly(Machine)
-|**RDF(M)**|**1set**|**2set**|**3set**|**4set**|
+##### 🔥Rear Delt Fly🔥
+|**RDF**|**1set**|**2set**|**3set**|**4set**|
 |:-|:-:|:-:|:-:|:-:|
-||54kg * 15reps|54kg * 12reps|54kg * 10reps|54kg * 8reps|
+||54kg * 12reps|54kg * 10reps|54kg * 8reps|54kg * 6reps|
 
-##### 🏋️‍♀️Side Lateral Raise(Dumbbell)
-|**SLR(D)**|**1set**|**2set**|
+##### 🔥Side Lateral Raise(Dumbbell)🔥
+|**SLR(D)**|**1set**|**2set**|**3set**|**4set**|
+|:-|:-:|:-:|:-:|:-:|
+||17kg * 10reps &<br/> 6kg * 15reps &<br/> 2kg * 20reps|17kg * 10reps &<br/> 6kg * 15reps &<br/> 2kg * 20reps|15kg * 10reps &<br/> 6kg * 15reps &<br/> 2kg * 20reps|15kg * 10reps &<br/> 6kg * 15reps &<br/> 2kg * 20reps|
+
+##### 🔥Chin Up🔥
+|**CU**|**1set**|**2set**|
 |:-|:-:|:-:|
-||10kg * 20reps * 20reps|8kg * 20reps * 20reps|
+||+10kg * 10reps|+0kg * 10reps|
 
-##### 🏋️‍♀️Side Lateral Raise(Cable)
-|**SLR(C)**|**1set**|**2set**|
-|:-|:-:|:-:|
-||5kg * 15reps|5kg * 15reps|
-
-##### 🏋️‍♀️Lat Pull Down
-|**LPD**|**1set**|**2set**|**3set**|
+##### 🔥Single Arm High Row🔥
+|**SAHR**|**1set**|**2set**|**3set**|
 |:-|:-:|:-:|:-:|
-|75kg(8RM)|7reps|6reps|5reps|
-|65kg(12RM)|12reps|8reps|6reps|
+||30kg * 10reps|30kg * 9reps|30kg * 8reps|
 
-##### 🏋️‍♀️Seated Row(B)
+##### 🔥High Row, Arm Pull Down🔥
+|**HR, APD**|**1set**|**2set**|**3set**|
+|:-|:-:|:-:|:-:|
+||50kg * 12reps,<br/> 40kg * 12reps|50kg * 10reps,<br/> 40kg * 10reps|50kg * 8reps,<br/> 40kg * 8reps|
+
+##### 🔥Seated Row(B)🔥
 |**SR(B)**|**1set**|**2set**|
 |:-|:-:|:-:|
-|60kg(8RM)|8reps|8reps|
-|50kg(12RM)|12reps|10reps|
+||55kg * 10reps|55kg * 8reps|
 
-##### 🏋️‍♀️High Row(Cable)
-|**HR(C)**|**1set**|**2set**|**3set**|
-|:-|:-:|:-:|:-:|
-||50kg * 12reps|50kg * 12reps|50kg * 12reps|
-
-##### 🏋️‍♀️High Row(Machine)
-|**HR(M)**|**1set**|**2set**|
-|:-|:-:|:-:|
-||25kg * 10reps|25kg * 9reps|

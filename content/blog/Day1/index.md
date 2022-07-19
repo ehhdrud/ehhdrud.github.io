@@ -1,29 +1,29 @@
 ---
-title: Day1
-description: Leg1
+title: Leg(Strength)
+description: 하체 근력
 ---
-### 🔥Leg1🔥
-##### 🏋️‍♀️Squat
+##### 🔥Squat🔥
 |**S**|**1set**|**2set**|
 |:-|:-:|:-:|
-|120kg(5RM)|6reps|5reps|
+|130kg(5RM)|3reps|2reps|
 
-##### 🏋️‍♀️Leg Press
+##### 🔥Leg Press🔥
 |**LP**|**1set**|**2set**|**3set**|**4set**|
 |:-|:-:|:-:|:-:|:-:|
-||400kg * 7reps|400kg * 5reps|160kg * 12reps|160kg * 12reps|
+||440kg * 4reps|400kg * 6reps|240kg * 10reps|200kg * 10reps|
 
-##### 🏋️‍♀️Single Leg Extension
+##### 🔥Single Leg Extension🔥
 |**SLE**|**1set**|**2set**|**3set**|**4set**|
 |:-|:-:|:-:|:-:|:-:|
-||26kg * 12reps|26kg * 12reps|26kg * 10reps|26kg * 10reps|
+||26kg * 15reps|26kg * 15reps|26kg * 12reps|26kg * 12reps|
 
-##### 🏋️‍♀️Hip Abducttion
+##### 🔥Hip Abducttion🔥
 |**HA**|**1set**|**2set**|**3set**|
 |:-|:-:|:-:|:-:|
 ||89kg * 20reps|89kg * 20reps|89kg * 20reps|
 
-##### 🏋️‍♀️Standing Calf Raise
+##### 🔥Standing Calf Raise🔥
 |**StandingCR**|**1set**|**2set**|**3set**|
 |:-|:-:|:-:|:-:|
-||125kg * 15reps|125kg * 15reps|125kg * 15reps|
+||105kg * 15reps &<br/> 65kg * 15reps|105kg * 15reps &<br/> 65kg * 15reps|105kg * 15reps &<br/> 65kg * 15reps|
+
