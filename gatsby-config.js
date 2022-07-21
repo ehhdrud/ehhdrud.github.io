@@ -3,7 +3,8 @@ module.exports = {
     title: `Workout Log`,
     author: {
       name: `Seo Dong Kyeong`,
-      summary: `(Front-End Developer)`
+      summary: `(Front-End Developer)     
+      Updated:22-07-21`
     },
     description: `SDK's Workout Log`,
     social: {

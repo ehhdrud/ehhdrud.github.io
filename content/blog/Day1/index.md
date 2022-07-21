@@ -26,4 +26,3 @@ description: 하체 근력
 |**StandingCR**|**1set**|**2set**|**3set**|
 |:-|:-:|:-:|:-:|
 ||105kg * 15reps &<br/> 65kg * 15reps|105kg * 15reps &<br/> 65kg * 15reps|105kg * 15reps &<br/> 65kg * 15reps|
-
